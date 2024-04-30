@@ -3,6 +3,9 @@
     <account name="tanhongit" id="e7017b58-75c5-4e4b-9b12-4dae4bd22943">
       <server host="github.com" />
     </account>
+    <account name="pxthinh" id="410ec541-bc2a-4c7c-9f8a-c03946eac881">
+      <server host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="CLONE_GIT_USING_SSH" value="true" />
