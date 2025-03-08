@@ -12,8 +12,6 @@
     </driver>
     <driver id="postgresql">
       <url-template name="new" template="jdbc:postgresql:// 192.168.68.150:5434/grandenterprise" />
-      <url-template name="new" template="jdbc:postgresql:// 192.168.68.150:5434/grandenterprise" />
-      <url-template name="new" template="jdbc:postgresql:// 192.168.68.150:5434/grandenterprise" />
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.7.3" />
     </driver>
     <driver id="sqlite.xerial">
