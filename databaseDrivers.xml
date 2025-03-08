@@ -11,7 +11,10 @@
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.6.0" />
+      <url-template name="new" template="jdbc:postgresql:// 192.168.68.150:5434/grandenterprise" />
+      <url-template name="new" template="jdbc:postgresql:// 192.168.68.150:5434/grandenterprise" />
+      <url-template name="new" template="jdbc:postgresql:// 192.168.68.150:5434/grandenterprise" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.7.3" />
     </driver>
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.43.0" />
