@@ -4,6 +4,7 @@
     <languageAllowList>
       <map>
         <entry key="*" value="true" />
+        <entry key="PHP" value="false" />
       </map>
     </languageAllowList>
     <option name="showIdeCompletions" value="true" />
