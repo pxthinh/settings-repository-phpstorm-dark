@@ -1,0 +1,8 @@
+<application>
+  <component name="com.github.blarc.ai.commits.intellij.plugin.settings.AppSettings2" activeLlmClientId="fa720437-297b-4e60-8943-e20f65c4edd1">
+    <option name="lastVersion" value="2.15.0" />
+    <llmClientConfigurations>
+      <OpenAiClientConfiguration tokenIsStored="true" id="fa720437-297b-4e60-8943-e20f65c4edd1" />
+    </llmClientConfigurations>
+  </component>
+</application>
